@@ -9,7 +9,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/arctic/device.mk)
 
 PRODUCT_DEVICE := arctic
-PRODUCT_NAME := twrp_arctic
+PRODUCT_NAME := fox_arctic
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi A7 Pro
 PRODUCT_MANUFACTURER := xiaomi
